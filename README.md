@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various coding problems from [LeetCode](https://leetcode.com/) in three programming languages: JavaScript, Python, and Java. The problems are categorized based on their difficulty level as Easy, Medium, and Hard, and also by their topic/category such as Array & Hashing, Bit Manipulation, etc.
+This repository contains my solutions to various coding problems from [LeetCode](https://leetcode.com/) from [NeetCode 150](https://neetcode.io/) in three programming languages: JavaScript, Python, and Java. The problems are categorized based on their difficulty level as Easy, Medium, and Hard, and also by their topic/category such as Array & Hashing, Bit Manipulation, etc.
 
 ## Categories
 
@@ -11,7 +11,7 @@ This repository contains my solutions to various coding problems from [LeetCode]
 - **Sorting & Searching**
 - **Strings**
 - **Trees & Graphs**
-- **Other Topics**
+- **Other Topics...**
 
 ## Difficulties
 
