@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various coding problems from [LeetCode](https://leetcode.com/) from [NeetCode 150](https://neetcode.io/) in JavaScript. The problems are categorized based on their difficulty level as Easy, Medium, and Hard, and also by their topic/category such as Array & Hashing, Bit Manipulation, etc.
+This repository contains my solutions to various coding problems from [LeetCode](https://leetcode.com/) from [NeetCode 330](https://neetcode.io/) in JavaScript. The problems are categorized based on their difficulty level as Easy, Medium, and Hard, and also by their topic/category such as Array & Hashing, Bit Manipulation, etc. This repository also has solutions for LeetCode JavaScript specific category.
 
 ## Categories
 
