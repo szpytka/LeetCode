@@ -32,3 +32,17 @@ var longestCommonPrefix = function (strs) {
 console.log(longestCommonPrefix(['flower', 'flow', 'flight']));
 console.log(longestCommonPrefix(['dog', 'racecar', 'car']));
 console.log(longestCommonPrefix(['cir', 'car']));
+
+// better and more optimalized
+
+// var longestCommonPrefix = function (strs) {
+//   strs.sort();
+//   for (let i = 0; i < strs[0].length; i++) {
+//     if (strs[0][i] !== strs[strs.length - 1][i]) return strs[0].substr(0, i);
+//   }
+//   return strs[0];
+// };
+
+// console.log(longestCommonPrefix(['flower', 'flow', 'flight']));
+// console.log(longestCommonPrefix(['dog', 'racecar', 'car']));
+// console.log(longestCommonPrefix(['cir', 'car']));
