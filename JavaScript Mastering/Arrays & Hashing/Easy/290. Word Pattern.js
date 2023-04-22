@@ -11,7 +11,7 @@ var wordPattern = function (pattern, s) {
   for (value of Object.values(hashMap)) {
     array.push(value);
   }
-  return array.length !== new Set(array).size ? false : true;
+  return array.length !== [...new Set(array)].length ? false : true;
 };
 
 console.log(wordPattern('abba', 'dog cat cat dog')); // true
